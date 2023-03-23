@@ -1,5 +1,7 @@
 # Dotup
 
+> :warning: **This repository has been superseded by [stow](https://github.com/lonepeon/stow).**
+
 This command line is in charge of maintaining a local copy of you dot files from a `<source>` folder.
 
 It copies all the files in the `<source>` folder to the `$HOME` folder, prefixing them by `.` if necessary.
